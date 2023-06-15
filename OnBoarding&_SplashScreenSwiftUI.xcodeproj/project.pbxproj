@@ -55,9 +55,10 @@
 		3E7DF3222A3AD82000559AD5 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				3EC5E1662A38395D00C8A6F9 /* ContentView.swift */,
+				3E7DF3282A3AD8AC00559AD5 /* HomeScreen.swift */,
 				3E7DF3242A3AD86B00559AD5 /* SplashScreen.swift */,
 				3E7DF3262A3AD88D00559AD5 /* CardView.swift */,
-				3E7DF3282A3AD8AC00559AD5 /* HomeScreen.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -93,7 +94,6 @@
 				3E7DF3232A3AD83600559AD5 /* Lottie */,
 				3E7DF3222A3AD82000559AD5 /* Views */,
 				3EC5E1642A38395D00C8A6F9 /* OnBoarding__SplashScreenSwiftUIApp.swift */,
-				3EC5E1662A38395D00C8A6F9 /* ContentView.swift */,
 				3EC5E1682A38395E00C8A6F9 /* Assets.xcassets */,
 				3EC5E16A2A38395E00C8A6F9 /* Preview Content */,
 			);
